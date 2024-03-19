@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 7207152395
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...ifyou sneeze too hard, you could fracture a rib.
+- ⚡ Fun fact: ...if you sneeze too hard, you could fracture a rib.
 
 <!---
 Greeshma2395/Greeshma2395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
